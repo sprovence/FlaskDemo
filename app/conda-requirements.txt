@@ -2,6 +2,8 @@ pandas
 bokeh
 dill
 flask
+flask_wtf
+quandl
 jinja2
 pip
 simplejson

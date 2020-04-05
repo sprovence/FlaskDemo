@@ -1,0 +1,9 @@
+gunicorn==19.9.0
+requests==2.23.0
+Flask==1.1.1
+Flask-SQLAlchemy==2.4.0
+Flask-WTF==0.14.2
+Werkzeug==0.16.1
+pandas==1.0.3
+bokeh==2.0.1
+quandl==3.4.8
